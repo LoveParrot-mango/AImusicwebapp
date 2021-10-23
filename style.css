@@ -1,0 +1,23 @@
+body {
+    background-size: cover;
+}
+
+.heading {
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 33px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 20%;
+}
+
+.note
+{
+    font-size: 13px;
+    color: brown;
+    background-color: antiquewhite;
+    padding: 12px;
+    position: center;
+    width: 75%;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
