@@ -21,3 +21,10 @@ body {
     width: 75%;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
+canvas 
+{
+    border: 5px solid white;
+    border-radius: 20px;
+    margin-top: 60px;
+}
